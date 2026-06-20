@@ -1,0 +1,51 @@
+======================================================================
+HEART DISEASE PREDICTION - MODEL COMPARISON REPORT
+======================================================================
+
+Model Performance Metrics:
+----------------------------------------------------------------------
+
+                     Accuracy  Precision  Recall  F1-Score  ROC-AUC  CV_Mean
+Model                                                                       
+Random Forest          0.7869     0.7941  0.8182    0.8060   0.8636   0.7718
+XGBoost                0.7869     0.8125  0.7879    0.8000   0.8604   0.7397
+SVM                    0.8033     0.7838  0.8788    0.8286   0.8810   0.7231
+Logistic Regression    0.8033     0.8000  0.8485    0.8235   0.8712   0.7397
+
+
+Random Forest:
+  Accuracy: 0.7869
+  Precision: 0.7941
+  Recall: 0.8182
+  F1-Score: 0.8060
+  ROC-AUC: 0.8636
+  CV_Mean: 0.7718
+
+XGBoost:
+  Accuracy: 0.7869
+  Precision: 0.8125
+  Recall: 0.7879
+  F1-Score: 0.8000
+  ROC-AUC: 0.8604
+  CV_Mean: 0.7397
+
+SVM:
+  Accuracy: 0.8033
+  Precision: 0.7838
+  Recall: 0.8788
+  F1-Score: 0.8286
+  ROC-AUC: 0.8810
+  CV_Mean: 0.7231
+
+Logistic Regression:
+  Accuracy: 0.8033
+  Precision: 0.8000
+  Recall: 0.8485
+  F1-Score: 0.8235
+  ROC-AUC: 0.8712
+  CV_Mean: 0.7397
+
+======================================================================
+RECOMMENDATION: Use SVM as the final model
+Best Accuracy Score: 0.8033
+======================================================================

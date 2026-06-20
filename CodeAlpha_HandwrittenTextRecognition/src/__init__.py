@@ -1,0 +1,2 @@
+"""Handwritten Text Recognition package."""
+

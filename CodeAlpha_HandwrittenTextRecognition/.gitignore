@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Large local artifacts
+dataset/iam/
+dataset/raw/
+dataset/processed/
+dataset/huggingface_iam/
+
+outputs/*
+!outputs/.gitkeep
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
