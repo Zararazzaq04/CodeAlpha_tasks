@@ -82,7 +82,7 @@ The project uses the **Kaggle Heart Disease Dataset** containing 1025 records. D
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/CodeAlpha_Heart_Disease_Prediction.git
+git clone https://github.com/Zararazzaq04/CodeAlpha_tasks/tree/main/CodeAlpha_HeartDiseasePrediction
 cd CodeAlpha_Heart_Disease_Prediction
 ```
 

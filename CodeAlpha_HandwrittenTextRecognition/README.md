@@ -120,7 +120,7 @@ The handwritten text recognition system is built using a CRNN (Convolutional Rec
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Zararazzaq04/CodeAlpha_tasks/tree/main/CodeAlpha_HandwrittenTextRecognition
 cd CodeAlpha_HandwrittenTextRecognition
 ```
 
