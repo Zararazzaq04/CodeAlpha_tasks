@@ -80,10 +80,11 @@ The project uses the **Kaggle Heart Disease Dataset** containing 1025 records. D
 
 ### Setup Steps
 
-1. **Clone the repository**
+### 1. Clone the Repository
+
 ```bash
-git clone https://github.com/Zararazzaq04/CodeAlpha_tasks/tree/main/CodeAlpha_HeartDiseasePrediction
-cd CodeAlpha_Heart_Disease_Prediction
+git clone https://github.com/Zararazzaq04/CodeAlpha_tasks.git
+cd CodeAlpha_tasks/CodeAlpha_HeartDiseasePrediction
 ```
 
 2. **Create virtual environment** (recommended)
